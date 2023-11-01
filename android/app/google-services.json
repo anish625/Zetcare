@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "970602662998",
+    "project_id": "zetcare-app-auth",
+    "storage_bucket": "zetcare-app-auth.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:970602662998:android:6ba650bb9484aa8dde7ff7",
+        "android_client_info": {
+          "package_name": "com.example.zetcare"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "970602662998-b3achs10c3n3nutkptd22suj2b8i46rf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdwuTbBovo5wwW4aN27-njKa6fMr7dCO4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "970602662998-b3achs10c3n3nutkptd22suj2b8i46rf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
